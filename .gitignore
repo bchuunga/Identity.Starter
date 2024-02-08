@@ -318,3 +318,4 @@ Identity/Identity.Host/appsettings.json
 # tools/
 
 # End of https://www.toptal.com/developers/gitignore/api/aspnetcore
+Identity/Identity.Host/appsettings.json
