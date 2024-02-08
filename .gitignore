@@ -312,6 +312,8 @@ paket-files/
 __pycache__/
 *.pyc
 
+Identity/Identity.Host/appsettings.json
+
 # Cake - Uncomment if you are using it
 # tools/
 
